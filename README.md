@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/shaad72345/shaad72345/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner%20(1).png)](https://codegrills.in)
 ## Portfolio:
-[Portfoli](https://shaad72345.github.io/)
+[Portfolio](https://shaad72345.github.io/)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaad723) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-shaad-94102385) 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
